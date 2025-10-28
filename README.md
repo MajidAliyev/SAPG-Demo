@@ -26,14 +26,14 @@ The SAPG implements a practical **Draft → Critique → Revision** cycle to add
 ├─────────────────────────────────────────────────┤
 │  Phase 1: DRAFT AGENT                           │
 │  → Generates initial solution                   │
-│                                                  │
+│                                                 │
 │  Phase 2: CRITIQUE AGENT                        │
 │  → Audits for:                                  │
 │     - Logical flaws                             │
 │     - Infinite loops                            │
 │     - Missing exception handling                │
 │     - Compliance risks                          │
-│                                                  │
+│                                                 │
 │  Phase 3: REVISION AGENT                        │
 │  → Incorporates feedback                        │
 │     → Produces corrected output                 │
